@@ -1,2 +1,0 @@
-# projectA
-projectA
